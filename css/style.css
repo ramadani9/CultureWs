@@ -205,6 +205,17 @@
     transition: 1s;
 }
 
+.contact a {
+    color: #e1e1e1;
+    transition: 0.2s linear;
+}
+
+.contact a:hover{
+    transform: scale(1.3);
+}
+
+
+
 .about p.muncul {
     opacity: 1;
     transform: translate(0, 0);
