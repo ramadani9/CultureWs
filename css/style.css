@@ -590,6 +590,7 @@
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        background-attachment: fixed;
         margin-top: -76px;
         height: 700px;
     }
